@@ -1,13 +1,13 @@
 ![MasterHead](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20201111215809/How-to-Become-a-Front-End-Developer-in-2020.png)
 <h1 align="center">Hi 👋, I'm Ankan Verma</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from India </h3>
 <img align="right" alt='coding' width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankanverma001&label=Profile%20views&color=0e75b6&style=flat" alt="ankanverma001" /> </p>
 
 <p align="left"> <a href="https://twitter.com/ankanverma3" target="blank"><img src="https://img.shields.io/twitter/follow/ankanverma3?logo=twitter&style=for-the-badge" alt="ankanverma3" /></a> </p>
 
-- 🔭 I’m currently working on **Medical Emergency**
+- 🔭 I’m currently working on **My Startup**
 
 - 🌱 I’m currently learning **UI/UX**
 
